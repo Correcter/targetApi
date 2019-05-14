@@ -1,0 +1,23 @@
+{
+    "name": "target-mail/targetapi",
+    "license": "proprietary",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "TargetApi\\": ""
+        }
+    },
+    "require": {
+        "symfony/validator": "^4.1",
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/serializer": "^4.1",
+        "symfony/property-access": "^4.1",
+        "symfony/property-info": "^4.1",
+        "doctrine/annotations": "^1.6",
+        "doctrine/cache": "^1.8"
+
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}
