@@ -4,13 +4,7 @@
 
 ##### Установка из корневой директории:
 
-- Из репозитория bitbucket:
-
-**git clone git@bitbucket.org:icontext/targetapi.git**
-
-- Из репозитория gitlab:
-
-**git clone git@gitlab.icontextdev.ru:target-mail/targetapi.git**
+**git clone git@github.com:Correcter/targetApi.git**
 
 **composer install**
 
